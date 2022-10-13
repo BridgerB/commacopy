@@ -1,30 +1,34 @@
-<!-- <video class="video" autoplay muted loop>
-  <source src="c3-hero.mp4" type="video/mp4">
-</video> 
+<script>
+	import { onMount } from "svelte";
 
 
+  let message = [`two eyes outside`, `one eye inside`, `comma three`]
+  let x = 0;
+  async function asyncCall() {
+    while (1<2){
+      await new Promise(resolve => setTimeout(resolve, 6800));
+      x++;
+      await new Promise(resolve => setTimeout(resolve, 5000));
+      x++;
+      await new Promise(resolve => setTimeout(resolve, 6163));
+      x=0;
 
-<p>two eyes outside</p>
-<button>Buy Now</button> -->
-
-<!-- <style>
-  .video {
-    width: 100%;
-    height: 100%;
-    
+    }
   }
-  p {
-    color: white;
-  }
-
-</style> -->
-
+  asyncCall()
+  onMount(async () => {
+    let vid = document.getElementById("video1");
+    video1.onloadedmetadata = function(){
+      console.log(this.duration);
+    }
+  })
+</script>
 <div id="videoDiv"> 
   <video id="video1" autoplay muted loop>
     <source src="c3-hero.mp4" type="video/mp4">
   </video> 
   <div id="videoMessage" class="styling">
-    <h1>two eyes outside</h1>
+    <h1>{message[x]}</h1>
     <button>Buy Now</button>
   </div>
 </div>
