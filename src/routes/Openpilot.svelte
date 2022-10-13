@@ -68,7 +68,7 @@
 		width: 100%;
 		background: 
 			linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(255,255,255,0) 50%, rgb(0, 0, 0) 100%),
-			url('openpilot-cover-three.jpg');
+			url('/openpilot-cover-three.jpg');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

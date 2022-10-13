@@ -1,9 +1,7 @@
-<div>
-	<div class="phone">
-		<video class="video" autoplay muted loop>
-			<source src="c3screen.mp4" type="video/mp4" />
-		</video>
-	</div>
+<div class="phone">
+	<video class="video" autoplay muted loop>
+		<source src="/c3screen.mp4" type="video/mp4" />
+	</video>
 </div>
 
 <style>
@@ -26,7 +24,7 @@
 		margin-bottom: 11.7%;
 	}
 	.phone {
-		background-image: url('c3-homepage.png');
+		background-image: url('/c3-homepage.png');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: contain;

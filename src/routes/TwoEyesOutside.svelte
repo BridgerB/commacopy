@@ -25,7 +25,7 @@
 </script>
 <div id="videoDiv"> 
   <video id="video1" autoplay muted loop>
-    <source src="c3-hero.mp4" type="video/mp4">
+    <source src="/c3-hero.mp4" type="video/mp4">
   </video> 
   <div id="videoMessage" class="styling">
     <h1>{message[x]}</h1>

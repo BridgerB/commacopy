@@ -2,22 +2,22 @@
 	<p class="about">
 		Unlike many <u>OEM ADAS systems</u>, openpilot can <u>drive for hours</u> without intervention.
 		We sell a devkit that can run openpilot with 360° HDR vision, <u>compatible</u> with 200+ cars.
-		Starting at $1999. <a href="url" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
+		Starting at $1999. <a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
 	</p>
 </div>
 <hr />
 <div class="three">
 	<p class="install">
-		<img src="icon-fast-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-fast-light-green.svg" width="72" height="55" /><br />
 		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as 5 minutes.
 	</p>
 	<p class="trial">
-		<img src="icon-calendar-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-calendar-light-green.svg" width="72" height="55" /><br />
 		30 Day Money Back Trial. We think you'll love it, but if you're not satisfied, you can send it back
 		for a <u>full refund</u>.
 	</p>
 	<p class="affirm">
-		<img src="icon-affirm-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-affirm-light-green.svg" width="72" height="55" /><br />
 		Pay over time. With Affirm, you can pay monthly for the comma three. <u>Learn more</u>.
 	</p>
 </div>

@@ -11,11 +11,11 @@
   import NavBar from './NavBar.svelte';
 </script>
 
-<svelte:head>
+<!-- <svelte:head>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
-</svelte:head>
+</svelte:head> -->
 
 <body>	
 	<div>
@@ -37,7 +37,7 @@
 	body {
     padding:0;
     margin:0;
-		background-color: #222222;
+		background-color: #0f0f0f;
 		color: white;
   }
 	/* *, *::before, *::after {

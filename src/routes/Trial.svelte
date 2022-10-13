@@ -7,8 +7,11 @@
 
 
 <style>
+
   div {
-    margin: 100px;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
   }
   h3 {
     margin-top: 20px;
