@@ -37,7 +37,7 @@
 	body {
     padding:0;
     margin:0;
-		background-color: #0f0f0f;
+		background-color: #222222;
 		color: white;
   }
 	/* *, *::before, *::after {

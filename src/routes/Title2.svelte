@@ -67,6 +67,11 @@
 		}
   } -->
 <style>
+  *{ 
+    background-color: #0f0f0f;
+    margin: 0;
+    padding: 0;
+  }
 	.about {
 		margin: auto;
 		padding-bottom: 50px;
@@ -76,6 +81,7 @@
 	}
 	hr {
 		margin: auto;
+    padding: 0;
 		width: 80%;
 		max-width: 1100px;
 	}

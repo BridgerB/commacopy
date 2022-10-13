@@ -6,8 +6,14 @@
 
 
 <style>
+  * {
+    background-color: #0f0f0f;
+    margin: 0;
+    padding: 0;
+  }
   .title1 {
     color: white;
 		text-align: center;
+
   }	
 </style>
