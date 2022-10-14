@@ -18,6 +18,10 @@
 
 
 </script>
+<svelte:head>
+	<title>Comma Copy</title>
+	<meta name="commacopy" content="comma.ai redone in SvelteKit">
+</svelte:head>
 
 <body>	
 	<div>
