@@ -29,7 +29,7 @@
   }
   .articles {
     width: 100%;
-    padding: 40px;
+    padding: 0px;
   }
   .all {
     background-color: white;

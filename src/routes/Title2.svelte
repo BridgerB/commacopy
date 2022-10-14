@@ -8,16 +8,16 @@
 <hr />
 <div class="three">
 	<p class="install">
-		<img src="/icon-fast-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-fast-light-green.svg" width="72" height="55" alt="clock icon" /><br />
 		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as 5 minutes.
 	</p>
 	<p class="trial">
-		<img src="/icon-calendar-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-calendar-light-green.svg" width="72" height="55" alt="calender icon"/><br />
 		30 Day Money Back Trial. We think you'll love it, but if you're not satisfied, you can send it back
 		for a <u>full refund</u>.
 	</p>
 	<p class="affirm">
-		<img src="/icon-affirm-light-green.svg" width="72" height="55" /><br />
+		<img src="/icon-affirm-light-green.svg" width="72" height="55" alt="hourglass icon"/><br />
 		Pay over time. With Affirm, you can pay monthly for the comma three. <u>Learn more</u>.
 	</p>
 </div>

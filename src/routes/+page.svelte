@@ -9,6 +9,10 @@
   import Trial from './Trial.svelte';
   import GreenBar from './GreenBar.svelte';
   import NavBar from './NavBar.svelte';
+  import Footer from './Footer.svelte';
+  import Footer2 from './Footer2.svelte';
+
+
 </script>
 
 <!-- <svelte:head>
@@ -29,6 +33,9 @@
 		<Compatibility />
 		<Reviews />
 		<Trial />
+		<Footer />
+		<Footer2 />
+
 	</div>
 
 </body>
