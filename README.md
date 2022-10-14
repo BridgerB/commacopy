@@ -1,6 +1,6 @@
 I spent two days rewriting the homepage of comma.ai in SvelteKit.  
 This took 422 lines of code.  
-You can see it in action here: [https://commacopy.web.app/](https://commacopy.web.app/)  
+You can see it in action here: [https://commacopy.web.app/](https://commacopy.web.app/) (mobile version needs work)  
 This is currently hosted on google firebase free tier
 
 
