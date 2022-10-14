@@ -8,8 +8,9 @@ This is currently hosted on google firebase free tier
 ![image](https://i.imgur.com/V1SryNH.jpg)
 
 This project is only 80% done and still needs the following:  
+* page width on mobile
 * all links
-* side nav bar
+* side navbar/menu
 * proper fonts
 * proper layout
 * twitter links
