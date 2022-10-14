@@ -4,8 +4,8 @@
 		We sell a devkit that can run openpilot with 360° HDR vision, <u>compatible</u> with 200+ cars.
 		Starting at $1999.
 		<a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
-		<br>
-		<br>
+		<br />
+		<br />
 	</p>
 </div>
 <hr />
@@ -65,20 +65,16 @@
 			margin: 50px;
 			padding: 10px;
 			grid-area: install;
-			/* text-align: center; */
-			/* border: 3px solid white; */
 		}
 		.trial {
 			grid-area: trial;
 			margin: 50px;
 			padding: 10px;
-			/* border: 3px solid white; */
 		}
 		.affirm {
 			grid-area: affirm;
 			margin: 50px;
 			padding: 10px;
-			/* border: 3px solid white; */
 		}
 	}
 
@@ -95,20 +91,16 @@
 			margin: 50px;
 			padding: 10px;
 			grid-area: install;
-			/* text-align: center; */
-			/* border: 3px solid white; */
 		}
 		.trial {
 			grid-area: trial;
 			margin: 50px;
 			padding: 10px;
-			/* border: 3px solid white; */
 		}
 		.affirm {
 			grid-area: affirm;
 			margin: 50px;
 			padding: 10px;
-			/* border: 3px solid white; */
 		}
 	}
 </style>

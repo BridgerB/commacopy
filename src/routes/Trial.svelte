@@ -1,88 +1,77 @@
 <div class="all">
-  <hr>
-  <br>
-  <div class="grid">  
-    <div class="header">
-      <h3>Try the comma three with our 30-day money back trial.</h3>
-    </div>
-  
-  
-    <div class="right">
-      <button class="button"><b>Buy Now</b></button>
-      <br>
-      <br>
-      <br>
-      <p class="affirm">Starting at $181/mo with <b>Affirm</b>. Learn more</p>
-    </div>
-  </div>
+	<hr />
+	<br />
+	<div class="grid">
+		<div class="header">
+			<h3>Try the comma three with our 30-day money back trial.</h3>
+		</div>
+
+		<div class="right">
+			<button class="button"><b>Buy Now</b></button>
+			<br />
+			<br />
+			<br />
+			<p class="affirm">Starting at $181/mo with <b>Affirm</b>. Learn more</p>
+		</div>
+	</div>
 </div>
 
-
 <style>
-  .all {
-    padding: 50px;
-    margin: 0px;
-    background-color: #232323;
-  }
-  hr {
-    width: 80%;
-    max-width: 1200px;
-  }
+	.all {
+		padding: 50px;
+		margin: 0px;
+		background-color: #232323;
+	}
+	hr {
+		width: 80%;
+		max-width: 1200px;
+	}
 	@media screen and (min-width: 100px) {
 		.grid {
-      /* font-size: 20px; */
 			margin: auto;
 			width: 80%;
-      display: grid;
-			grid-template-columns: 1fr 1fr; 
+			display: grid;
+			grid-template-columns: 1fr 1fr;
 			grid-template-rows: 1fr;
 			grid-template-areas:
 				'header'
-        'right';
+				'right';
 		}
 		.header {
-      /* padding: 20px; */
 			grid-area: header;
-      font-size: 35px;;
+			font-size: 35px;
 		}
-    .button {
-      /* padding: 20px; */
+		.button {
 			grid-area: button;
-      float: right;
-      color: black;
-      background-color: #86ff4e;
-      border-radius: 4px;
-      padding-left: 70px;
-      padding-right: 70px;
-      padding-top: 15px;
-      padding-bottom: 15px;
-      font-size: 18px;
-      border: none;
+			float: right;
+			color: black;
+			background-color: #86ff4e;
+			border-radius: 4px;
+			padding-left: 70px;
+			padding-right: 70px;
+			padding-top: 15px;
+			padding-bottom: 15px;
+			font-size: 18px;
+			border: none;
 		}
-    .affirm {
-      /* padding: 20px; */
+		.affirm {
 			grid-area: affirm;
-      float: right;
-      font-size: 17px;;
+			float: right;
+			font-size: 17px;
 		}
-    .right {
-      /* padding: 20px; */
+		.right {
 			grid-area: right;
-      float: right;
+			float: right;
 		}
 	}
-  @media screen and (min-width: 500px) {
+	@media screen and (min-width: 500px) {
 		.grid {
-      width: 80%;
-      max-width: 1200px;
+			width: 80%;
+			max-width: 1200px;
 			display: grid;
-      /* margin: auto; */
-      grid-template-columns: 1fr 1fr;
-
-			/* grid-template-columns: 3fr 3fr 1fr 1fr; */
+			grid-template-columns: 1fr 1fr;
 			grid-template-rows: 1fr;
-			grid-template-areas:
-				'header right';
+			grid-template-areas: 'header right';
 		}
 	}
 </style>

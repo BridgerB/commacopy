@@ -30,16 +30,15 @@
 			<b><p>Get the latest updates from comma</p></b>
 			<br />
 			<input type="text" placeholder="your@email.com" />
-      <br>
-      <br>
-      <img src="icon-github-white.png" alt="github logo" width="24px" />
-      <img src="icon-instagram-white.png" alt="instagram logo" width="24px" />
-      <img src="icon-twitter-white.png" alt="twitter logo" width="24px" />
-      <img src="icon-youtube-white.png" alt="youtube logo" width="24px" />
+			<br />
+			<br />
+			<img src="icon-github-white.png" alt="github logo" width="24px" />
+			<img src="icon-instagram-white.png" alt="instagram logo" width="24px" />
+			<img src="icon-twitter-white.png" alt="twitter logo" width="24px" />
+			<img src="icon-youtube-white.png" alt="youtube logo" width="24px" />
 		</div>
 	</div>
 	<br />
-
 </div>
 
 <style>
@@ -53,9 +52,9 @@
 			grid-template-areas:
 				'comma'
 				'product'
-        'information'
-        'company'
-        'email';
+				'information'
+				'company'
+				'email';
 		}
 	}
 	@media screen and (min-width: 860px) {
@@ -68,16 +67,15 @@
 			grid-template-areas: 'comma product information company email';
 		}
 	}
-  img {
-    margin: auto;
+	img {
+		margin: auto;
 		padding: 6px;
-  }
+	}
 	input {
 		background-color: black;
 		color: white;
 	}
 	.all {
-		/* text-align: center; */
 		font-size: 22px;
 		padding: 40px;
 	}
