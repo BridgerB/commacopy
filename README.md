@@ -8,7 +8,7 @@ This is currently hosted on google firebase free tier
 ![image](https://i.imgur.com/V1SryNH.jpg)
 
 This project is only 80% done and still needs the following:  
-* page width on mobile
+* fix page width on mobile
 * all links
 * side navbar/menu
 * proper fonts
@@ -16,8 +16,8 @@ This project is only 80% done and still needs the following:
 * twitter links
 * google analytics
 * fix load time of main comma background
-* fix timing of internal camera video
+* fix text timing of internal camera video
 * featured articles overflows
 * email on bottom of page does not have submit button
-* top nav bar does not follow scroll
+* top nav bar does not scroll with page
 * likely many more
