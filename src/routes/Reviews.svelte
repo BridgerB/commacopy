@@ -38,12 +38,13 @@
 	}
 	@media screen and (min-width: 100px) {
 		.articles {
+			text-align: center;
 			background-color: white;
 			font-size: 20px;
 			margin: auto;
 			width: 100%;
-			grid-template-columns: 1fr 1fr;
-			grid-template-rows: 1fr;
+			grid-template-columns: 1fr;
+			grid-template-rows: auto;
 			grid-template-areas:
 				'engadget'
 				'consumerReports'
@@ -78,7 +79,7 @@
 		}
 	}
 
-	@media screen and (min-width: 400px) {
+	/* @media screen and (min-width: 400px) {
 		.articles {
 			display: grid;
 			grid-template-columns: auto;
@@ -97,5 +98,5 @@
 			grid-template-rows: auto;
 			grid-template-areas: 'engadget consumerReports carAndDriver roadShow reason theDrive';
 		}
-	}
+	} */
 </style>

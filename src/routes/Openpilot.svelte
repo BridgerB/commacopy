@@ -41,7 +41,7 @@
 	}
 	.blackBox {
 		margin: 0;
-		padding: 100px;
+		padding-bottom: 150px;
 		background-color: black;
 		height: 100px;
 		width: 65%;
