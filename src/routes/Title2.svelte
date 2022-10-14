@@ -2,22 +2,24 @@
 	<p class="about">
 		Unlike many <u>OEM ADAS systems</u>, openpilot can <u>drive for hours</u> without intervention.
 		We sell a devkit that can run openpilot with 360° HDR vision, <u>compatible</u> with 200+ cars.
-		Starting at $1999. <a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
+		Starting at $1999.
+		<a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
 	</p>
 </div>
 <hr />
 <div class="three">
 	<p class="install">
-		<img src="/icon-fast-light-green.svg" width="72" height="55" alt="clock icon" /><br />
-		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as 5 minutes.
+		<img src="/icon-fast-light-green.svg" width="48" alt="clock icon" /><br />
+		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as
+		5 minutes.
 	</p>
 	<p class="trial">
-		<img src="/icon-calendar-light-green.svg" width="72" height="55" alt="calender icon"/><br />
+		<img src="/icon-calendar-light-green.svg" width="35" alt="calender icon" /><br />
 		30 Day Money Back Trial. We think you'll love it, but if you're not satisfied, you can send it back
 		for a <u>full refund</u>.
 	</p>
 	<p class="affirm">
-		<img src="/icon-affirm-light-green.svg" width="72" height="55" alt="hourglass icon"/><br />
+		<img src="/icon-affirm-light-green.svg" width="35" alt="hourglass icon" /><br />
 		Pay over time. With Affirm, you can pay monthly for the comma three. <u>Learn more</u>.
 	</p>
 </div>
@@ -67,28 +69,28 @@
 		}
   } -->
 <style>
-  *{ 
-    background-color: #0f0f0f;
-    margin: 0;
-    padding: 0;
-  }
+	* {
+		background-color: #0f0f0f;
+		margin: 0;
+		padding: 0;
+	}
 	.about {
 		margin: auto;
 		padding-bottom: 50px;
-		width: 80%;
+		width: 69%;
 		max-width: 900px;
-		font-size: 35px;
+		font-size: 25px;
 	}
 	hr {
 		margin: auto;
-    padding: 0;
-		width: 80%;
+		padding: 0;
+		width: 69%;
 		max-width: 900px;
 	}
 
 	@media screen and (min-width: 100px) {
 		.three {
-      font-size: 20px;
+			font-size: 20px;
 			margin: auto;
 			width: 100%;
 			max-width: 1100px;

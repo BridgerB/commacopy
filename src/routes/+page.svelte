@@ -19,12 +19,6 @@
 
 </script>
 
-<!-- <svelte:head>
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
-</svelte:head> -->
-
 <body>	
 	<div>
 		<NavBar />
@@ -32,6 +26,7 @@
 		<GreenBar />
 		<Title1 />
     <CommaThree />
+		<br><br>
 		<Title2 />
 		<TwoEyesOutside />
 		<Openpilot />

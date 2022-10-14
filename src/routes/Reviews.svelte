@@ -80,7 +80,7 @@
 
 	}
 
-	@media screen and (min-width: 800px) {
+	@media screen and (min-width: 400px) {
 		.articles {
 			display: grid;
 			grid-template-columns: auto;

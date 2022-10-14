@@ -10,7 +10,9 @@
     <div class="right">
       <button class="button"><b>Buy Now</b></button>
       <br>
-      <p class="affirm">Starting at $181/mo with Affirm. Learn more</p>
+      <br>
+      <br>
+      <p class="affirm">Starting at $181/mo with <b>Affirm</b>. Learn more</p>
     </div>
   </div>
 </div>
@@ -54,11 +56,13 @@
       padding-top: 10px;
       padding-bottom: 10px;
       font-size: 14px;
+      border: none;
 		}
     .affirm {
       /* padding: 20px; */
 			grid-area: affirm;
       float: right;
+      font-size: 13px;;
 		}
     .right {
       /* padding: 20px; */

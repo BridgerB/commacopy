@@ -28,12 +28,15 @@
     <source src="/c3-hero.mp4" type="video/mp4">
   </video> 
   <div id="videoMessage" class="styling">
-    <h1>{message[x]}</h1>
+    <h1 class="message">{message[x]}</h1>
     <button><b>Buy Now</b></button>
   </div>
 </div>
 
 <style>
+  .message {
+    font-size: 50px;
+  }
   #videoDiv {
     position: relative;
   }
@@ -59,11 +62,9 @@
     border-radius: 2px;
     padding-right: 45px;
     padding-left: 45px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-size: 15px;
     background-color: #86ff4e;
-
-
   }
 </style>

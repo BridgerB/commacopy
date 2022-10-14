@@ -5,7 +5,7 @@
 	<p>
 		openpilot is open source software built to improve upon the existing driver assistance in most
 		new cars on the road today. Tesla Autopilot like functionality for your Toyota, Honda, and other
-		top brands. See what Consumer Reports thinks of it.
+		top brands. See what <u>Consumer Reports</u> thinks of it.
 	</p>
 	<br />
 	<p>View on GitHub ></p>
@@ -13,6 +13,8 @@
 </div>
 <div class="background">
 	<div class="eyes">
+		<br>
+		<br>
 		<h1>Keep your eyes on the road.</h1>
 		<br />
 		<p>
@@ -22,7 +24,7 @@
 		<br />
 		<p style="color:green;">See driver monitoring in action ></p>
 		<br />
-		<img class="bbb" src="driver-monitoring-at-night.jpg" alt="example of internal camera" />
+		<img class="monitoring" src="driver-monitoring-at-night.jpg" alt="example of internal camera" />
 	</div>
 </div>
 </div>
@@ -39,6 +41,8 @@
 		padding: 100px;
 		background-color: black;
 		height: 100px;
+		width: 65%;
+		margin: auto;
 	}
 	p,
 	h1 {
@@ -50,15 +54,19 @@
 		display: block;
 		color: white;
 	}
-	.bbb {
+	.monitoring {
 		width: 60%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 30px;
 	}
 	.eyes {
 		transform: translate(0,900px);
 		max-width: 1240px;
 		width: 80%;
 		background-color: black;
-		border: 3px solid white;
+		border: 1.5px solid white;
 		margin: auto;
 		color: white;
 		/* padding: 90px; */

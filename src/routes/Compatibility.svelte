@@ -12,6 +12,7 @@
     margin: 0;
     padding: 0;
     background-color: black;
+
   }
   div{
     /* margin: 100px; */
@@ -28,6 +29,10 @@
     padding-right: 40px;
     border-radius: 4px;
     font-size: 18px;
-
+    border: none;
+    font-weight: bold;
+  }
+  body {
+    padding-bottom: 170px;
   }
 </style>
