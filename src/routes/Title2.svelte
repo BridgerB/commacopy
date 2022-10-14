@@ -76,14 +76,14 @@
 		margin: auto;
 		padding-bottom: 50px;
 		width: 80%;
-		max-width: 1100px;
+		max-width: 900px;
 		font-size: 35px;
 	}
 	hr {
 		margin: auto;
     padding: 0;
 		width: 80%;
-		max-width: 1100px;
+		max-width: 900px;
 	}
 
 	@media screen and (min-width: 100px) {
@@ -122,6 +122,7 @@
 
 	@media screen and (min-width: 900px) {
 		.three {
+			max-width: 900px;
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
 			grid-template-rows: 1fr 1fr;

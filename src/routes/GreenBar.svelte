@@ -5,7 +5,7 @@
   p {
     background-color: #00ff15;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     color: black;
     /* padding:0; */
     margin:0;

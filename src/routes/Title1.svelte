@@ -2,6 +2,8 @@
   <h1>COMMA THREE</h1>
   <p>Make driving chill with our beautiful new hardware.</p>
   <a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
+  <br>
+  <br>
 </div>
 
 
@@ -9,7 +11,7 @@
   * {
     background-color: #0f0f0f;
     margin: 0;
-    padding: 0;
+    padding: 10px;
   }
   .title1 {
     color: white;

@@ -29,7 +29,7 @@
   </video> 
   <div id="videoMessage" class="styling">
     <h1>{message[x]}</h1>
-    <button>Buy Now</button>
+    <button><b>Buy Now</b></button>
   </div>
 </div>
 
@@ -42,6 +42,7 @@
     width: 100%;
   }
   #videoMessage { 
+    
     position: absolute;
     top: 0;
     left: 0;
@@ -52,5 +53,17 @@
     width: 100%;
     height: 100%;
     color: white;
+  }
+  button {
+    border: none;
+    border-radius: 2px;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    background-color: #86ff4e;
+
+
   }
 </style>
