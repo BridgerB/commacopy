@@ -1,5 +1,5 @@
 <div>
-  <p >make driving chill © 2021 Privacy Terms</p>
+  <p >make driving chill  © 2021 Privacy Terms</p>
 </div>
 
 
@@ -10,7 +10,7 @@
     color: white;
     padding: 10px;
     margin: 0;
-    font-size: 14px;
+    font-size: 20px;
   }
   div {
     margin: 0px;

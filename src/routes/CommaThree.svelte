@@ -9,7 +9,7 @@
 	*::before,
 	*::after {
 		background: #0f0f0f;
-		max-width: 850px;
+		max-width: 1240px;
 		margin: 0 auto;
 		display: block;
 		padding: 0.1px;

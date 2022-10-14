@@ -22,7 +22,7 @@
 			to alert the driver when their eyes are not on the road ahead.
 		</p>
 		<br />
-		<p style="color:green;">See driver monitoring in action ></p>
+		<p style="color:#79eb4c;">See driver monitoring in action ></p>
 		<br />
 		<img class="monitoring" src="driver-monitoring-at-night.jpg" alt="example of internal camera" />
 	</div>
@@ -43,6 +43,7 @@
 		height: 100px;
 		width: 65%;
 		margin: auto;
+		font-size: 25px;
 	}
 	p,
 	h1 {
@@ -63,13 +64,14 @@
 	}
 	.eyes {
 		transform: translate(0,900px);
-		max-width: 1240px;
-		width: 80%;
+		max-width: 1430px;
+		width: 90%;
 		background-color: black;
 		border: 1.5px solid white;
 		margin: auto;
 		color: white;
 		/* padding: 90px; */
+		font-size: 26px;
 	}
 	.background {
 		height: 1000px;

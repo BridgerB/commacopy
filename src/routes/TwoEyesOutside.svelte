@@ -2,6 +2,7 @@
 	import { onMount } from "svelte";
 
 
+  // This was a (crappy) temp solution. needs fixed.
   let message = [`two eyes outside`, `one eye inside`, `comma three`]
   let x = 0;
   async function asyncCall() {
@@ -35,7 +36,7 @@
 
 <style>
   .message {
-    font-size: 50px;
+    font-size: 80px;
   }
   #videoDiv {
     position: relative;
@@ -59,12 +60,12 @@
   }
   button {
     border: none;
-    border-radius: 2px;
-    padding-right: 45px;
-    padding-left: 45px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-size: 15px;
+    border-radius: 5px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 20px;
     background-color: #86ff4e;
   }
 </style>

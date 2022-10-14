@@ -1,7 +1,8 @@
 <div class="title1">
 	<h1 class="commaThree">COMMA THREE</h1>
 	<p class="chill">Make driving chill with our beautiful new hardware.</p>
-	<a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
+  <br>
+	<a href="https://comma.ai/" class="buyNow" style="color:#86ff4e; text-decoration: none;"><b>Buy Now ></b></a>
 	<br />
 	<br />
 </div>
@@ -25,10 +26,13 @@
 		text-align: center;
 	}
   .chill {
-		font-size: 15px;
+		font-size: 23px;
   }
 	.commaThree {
-		font-size: 50px;
+		font-size: 85px;
 		font-family: 'Archivo Black', sans-serif;
 	}
+  .buyNow {
+    font-size: 30px;
+  }
 </style>

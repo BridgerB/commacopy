@@ -3,7 +3,7 @@
   <img class="menu" src="icon-menu-2.svg"  alt="show menu" />
   <img class="comma" src="comma1.png"  alt="show menu" />
 
-  <button>Shop</button>
+  <button><b>Shop</b></button>
 </div>
 
 
@@ -33,11 +33,12 @@
 
   button {
     /* width: ; */
+    height: 30px;
     /* padding: 10px; */
-    padding-right: 10px;
-    padding-left: 10px;
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background-color: #86ff4e;
 
 
@@ -46,7 +47,7 @@
     margin-bottom: 15px;
 
     float: right;
-    font-size: 12px;
+    font-size: 15px;
     border: none;
 
   }

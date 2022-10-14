@@ -4,70 +4,30 @@
 		We sell a devkit that can run openpilot with 360° HDR vision, <u>compatible</u> with 200+ cars.
 		Starting at $1999.
 		<a href="https://comma.ai/" style="color:#86ff4e; text-decoration: none;">Buy Now ></a>
+		<br>
+		<br>
 	</p>
 </div>
 <hr />
 <div class="three">
 	<p class="install">
-		<img src="/icon-fast-light-green.svg" width="48" alt="clock icon" /><br />
+		<img src="/icon-fast-light-green.svg" width="75" alt="clock icon" /><br /> <br />
 		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as
 		5 minutes.
 	</p>
 	<p class="trial">
-		<img src="/icon-calendar-light-green.svg" width="35" alt="calender icon" /><br />
+		<img src="/icon-calendar-light-green.svg" width="55" alt="calender icon" /><br />
+		<br />
 		30 Day Money Back Trial. We think you'll love it, but if you're not satisfied, you can send it back
 		for a <u>full refund</u>.
 	</p>
 	<p class="affirm">
-		<img src="/icon-affirm-light-green.svg" width="35" alt="hourglass icon" /><br />
+		<img src="/icon-affirm-light-green.svg" width="50" alt="hourglass icon" /><br />
+		<br />
 		Pay over time. With Affirm, you can pay monthly for the comma three. <u>Learn more</u>.
 	</p>
 </div>
 
-<!-- @media screen and (min-width: 800px) {
-    
-  	.site {
-			display: grid;
-			grid-template-columns: 1fr 1fr;
-      grid-template-rows: auto 1fr 3fr;
-      grid-template-areas:
-        "content-head content-head"
-        "main header"
-        "main sidebar"
-        "footer footer";
-		}
-    
-    .masthead {
-      grid-area: header;
-    }
-    
-    .page-title {
-      grid-area: content-head;
-    }
-    
-    .main-content {
-      grid-area: main;
-    }
-    
-    .sidebar {
-      grid-area: sidebar;
-    }
-		
-    .colophon {
-      grid-area: footer;
-    }
-    
-	}
-  
-  @media screen and (min-width: 1200px) {
-    .site {
-			grid-template-columns: 2fr 1fr 1fr;
-      grid-template-areas:
-        "content-head content-head content-head"
-        "main header header"
-        "main sidebar footer";
-		}
-  } -->
 <style>
 	* {
 		background-color: #0f0f0f;
@@ -77,15 +37,15 @@
 	.about {
 		margin: auto;
 		padding-bottom: 50px;
-		width: 69%;
-		max-width: 900px;
-		font-size: 25px;
+		width: 80%;
+		max-width: 1150px;
+		font-size: 35px;
 	}
 	hr {
 		margin: auto;
 		padding: 0;
 		width: 69%;
-		max-width: 900px;
+		max-width: 1150px;
 	}
 
 	@media screen and (min-width: 100px) {
@@ -124,7 +84,7 @@
 
 	@media screen and (min-width: 900px) {
 		.three {
-			max-width: 900px;
+			max-width: 1270px;
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
 			grid-template-rows: 1fr 1fr;

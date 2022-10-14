@@ -15,18 +15,14 @@
 
   }
   div{
-    /* margin: 100px; */
-    /* border-radius: 2px;
-    border: solid; */
-    border-color: pink;
     text-align: center;
     
   }
   button {
     background-color: #86ff4e;
     padding: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
     border-radius: 4px;
     font-size: 18px;
     border: none;
@@ -34,5 +30,17 @@
   }
   body {
     padding-bottom: 170px;
+    padding-top: 250px;
+
+  }
+  h1 {
+    padding: 50px;
+    font-size: 55px;
+  }
+  p {
+    font-size: 25px;
+    padding-bottom: 20px;
+
+
   }
 </style>

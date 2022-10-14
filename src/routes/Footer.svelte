@@ -70,13 +70,16 @@
 	}
   img {
     margin: auto;
+		padding: 6px;
   }
 	input {
 		background-color: black;
 		color: white;
 	}
 	.all {
-		text-align: center;
+		/* text-align: center; */
+		font-size: 22px;
+		padding: 40px;
 	}
 
 	.comma {
@@ -94,5 +97,9 @@
 	}
 	.email {
 		grid-area: email;
+	}
+	p {
+		padding: 0;
+		margin: 8px;
 	}
 </style>

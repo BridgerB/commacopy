@@ -21,6 +21,7 @@
     background-color: white;
     color: black;
     text-align: center;
+    font-size: 35px;
   }
   h4 {
     display: inline-block;
@@ -33,6 +34,7 @@
   }
   .all {
     background-color: white;
+    padding-bottom: 150px;
   }
 	@media screen and (min-width: 100px) {
 		.articles {
@@ -41,7 +43,7 @@
       font-size: 20px;
 			margin: auto;
 			width: 100%;
-			/* max-width: 1100px; */
+			/* max-width: 800px; */
 			grid-template-columns: 1fr 1fr;
 			grid-template-rows: 1fr;
 			grid-template-areas:

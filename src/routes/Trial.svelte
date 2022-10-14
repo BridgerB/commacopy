@@ -26,7 +26,7 @@
   }
   hr {
     width: 80%;
-    max-width: 1000px;
+    max-width: 1200px;
   }
 	@media screen and (min-width: 100px) {
 		.grid {
@@ -43,6 +43,7 @@
 		.header {
       /* padding: 20px; */
 			grid-area: header;
+      font-size: 35px;;
 		}
     .button {
       /* padding: 20px; */
@@ -51,18 +52,18 @@
       color: black;
       background-color: #86ff4e;
       border-radius: 4px;
-      padding-left: 40px;
-      padding-right: 40px;
-      padding-top: 10px;
-      padding-bottom: 10px;
-      font-size: 14px;
+      padding-left: 70px;
+      padding-right: 70px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      font-size: 18px;
       border: none;
 		}
     .affirm {
       /* padding: 20px; */
 			grid-area: affirm;
       float: right;
-      font-size: 13px;;
+      font-size: 17px;;
 		}
     .right {
       /* padding: 20px; */
@@ -73,7 +74,7 @@
   @media screen and (min-width: 500px) {
 		.grid {
       width: 80%;
-      max-width: 1000px;
+      max-width: 1200px;
 			display: grid;
       /* margin: auto; */
       grid-template-columns: 1fr 1fr;

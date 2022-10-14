@@ -5,9 +5,10 @@
   p {
     background-color: #00ff15;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     color: black;
     /* padding:0; */
     margin:0;
+    font-size: 24px;
   }
 </style>
