@@ -10,7 +10,6 @@
 	import GreenBar from './GreenBar.svelte';
 	import NavBar from './NavBar.svelte';
 	import SideBar from './SideBar.svelte';
-
 	import Footer from './Footer.svelte';
 	import Footer2 from './Footer2.svelte';
 	import Twitter from './Twitter.svelte';
@@ -37,7 +36,6 @@
 		<Trial />
 		<Footer />
 		<Footer2 />
-
 		<!-- <Twitter /> -->
 	</div>
 </body>
