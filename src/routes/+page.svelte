@@ -1,4 +1,6 @@
 <script>
+	import { onMount } from 'svelte';
+	import CommaCopy from './CommaCopy.svelte';
 	import Title1 from './Title1.svelte';
 	import CommaThree from './CommaThree.svelte';
 	import Title2 from './Title2.svelte';
@@ -17,6 +19,25 @@
 	function handleClick() {
 		alert('clicked');
 	}
+
+	
+	import { initializeApp } from 'firebase/app';
+	import { getAnalytics } from 'firebase/analytics';
+	const firebaseConfig = {
+		apiKey: 'AIzaSyDk_-UKrGpvM3ovj2RV95UfVTEcxIo08_4',
+		authDomain: 'commacopy.firebaseapp.com',
+		projectId: 'commacopy',
+		storageBucket: 'commacopy.appspot.com',
+		messagingSenderId: '239626345124',
+		appId: '1:239626345124:web:4de6e1fa27c5d53a786431',
+		measurementId: 'G-XQS4TS6B20'
+	};
+	onMount(() => {
+		const app = initializeApp(firebaseConfig);
+		const analytics = getAnalytics(app);
+	});
+
+
 </script>
 
 <svelte:head>
@@ -26,6 +47,7 @@
 
 <body>
 	<div>
+		<CommaCopy />
 		<NavBar />
 		<!-- <SideBar /> -->
 		<GreenBar />
@@ -50,10 +72,5 @@
 		margin: 0;
 		background-color: #0f0f0f;
 		color: white;
-	}
-
-	/* Before visit */
-	a {
-		color: rgba(226, 223, 223, 0);
 	}
 </style>
