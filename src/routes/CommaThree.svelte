@@ -25,7 +25,7 @@
 		margin-bottom: 11.7%;
 	}
 	.phone {
-		background-image: url('/c3-homepage.png');
+		background-image: url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3-homepage.png?alt=media&token=5a154ec9-ac83-4cf3-a86e-e2f2772e4e82');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: contain;
