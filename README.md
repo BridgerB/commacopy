@@ -19,3 +19,7 @@ This project is only 80% done and still needs the following:
 * email on bottom of page does not have submit button
 * top nav bar does not scroll with page
 * likely many more
+
+
+
+![image](https://i.imgur.com/2zqai2I.png)
