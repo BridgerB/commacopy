@@ -18,7 +18,7 @@
 	onMount(async () => {
 		let vid = document.getElementById('video1');
 		video1.onloadedmetadata = function () {
-			console.log(this.duration);
+			// console.log(this.duration);
 		};
 	});
 </script>

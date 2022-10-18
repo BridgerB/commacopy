@@ -13,6 +13,10 @@
 	import Footer from './Footer.svelte';
 	import Footer2 from './Footer2.svelte';
 	import Twitter from './Twitter.svelte';
+
+	function handleClick() {
+		alert('clicked');
+	}
 </script>
 
 <svelte:head>
@@ -20,31 +24,39 @@
 	<meta name="commacopy" content="comma.ai redone in SvelteKit" />
 </svelte:head>
 
-<body>
-	<div>
-		<NavBar />
-		<!-- <SideBar /> -->
-		<GreenBar />
-		<Title1 />
-		<CommaThree />
-		<br /><br />
-		<Title2 />
-		<TwoEyesOutside />
-		<Openpilot />
-		<Compatibility />
-		<Reviews />
-		<Trial />
-		<Footer />
-		<Footer2 />
-		<!-- <Twitter /> -->
-	</div>
-</body>
+<a href="https://comma.ai/">
+	<body>
+		<div>
+			<NavBar />
+			<!-- <SideBar /> -->
+			<GreenBar />
+			<Title1 />
+			<CommaThree />
+			<br /><br />
+			<Title2 />
+			<TwoEyesOutside />
+			<Openpilot />
+			<Compatibility />
+			<Reviews />
+			<Trial />
+			<Footer />
+			<Footer2 />
+			<!-- <Twitter /> -->
+		</div>
+	</body>
+</a>
 
 <style>
 	body {
-    padding:0;
-    margin:0;
+		padding: 0;
+		margin: 0;
 		background-color: #0f0f0f;
 		color: white;
-  }
+	}
+
+	/* Before visit */
+	a {
+		color: rgba(226, 223, 223, 0);
+
+	}
 </style>
