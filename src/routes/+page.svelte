@@ -24,27 +24,25 @@
 	<meta name="commacopy" content="comma.ai redone in SvelteKit" />
 </svelte:head>
 
-<a href="https://comma.ai/">
-	<body>
-		<div>
-			<NavBar />
-			<!-- <SideBar /> -->
-			<GreenBar />
-			<Title1 />
-			<CommaThree />
-			<br /><br />
-			<Title2 />
-			<TwoEyesOutside />
-			<Openpilot />
-			<Compatibility />
-			<Reviews />
-			<Trial />
-			<Footer />
-			<Footer2 />
-			<!-- <Twitter /> -->
-		</div>
-	</body>
-</a>
+<body>
+	<div>
+		<NavBar />
+		<!-- <SideBar /> -->
+		<GreenBar />
+		<Title1 />
+		<CommaThree />
+		<br /><br />
+		<Title2 />
+		<TwoEyesOutside />
+		<Openpilot />
+		<Compatibility />
+		<Reviews />
+		<Trial />
+		<Footer />
+		<Footer2 />
+		<!-- <Twitter /> -->
+	</div>
+</body>
 
 <style>
 	body {
@@ -57,6 +55,5 @@
 	/* Before visit */
 	a {
 		color: rgba(226, 223, 223, 0);
-
 	}
 </style>
