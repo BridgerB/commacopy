@@ -1,7 +1,6 @@
 <div class="phone">
-	<video class="video" autoplay muted loop>
+	<video class="video" autoplay muted loop playsinline>
 		<source src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3screen.mp4?alt=media&token=62026916-6710-4bb6-98eb-3b6a88605d89" type="video/mp4" />
-		
 	</video>
 </div>
 

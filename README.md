@@ -14,7 +14,6 @@ This project is only 80% done and still needs the following:
 * proper fonts
 * proper layout
 * twitter links
-* fix load time of main comma background
 * fix text timing of internal camera video
 * email on bottom of page does not have submit button
 * top nav bar does not scroll with page

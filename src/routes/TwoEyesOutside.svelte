@@ -24,7 +24,7 @@
 </script>
 
 <div id="videoDiv">
-	<video id="video1" autoplay muted loop>
+	<video id="video1" autoplay muted loop playsinline>
 		<source src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3-hero.mp4?alt=media&token=99424a8c-ee99-459e-af69-94337a8a1170" type="video/mp4" />
 	</video>
 	<div id="videoMessage" class="styling">
