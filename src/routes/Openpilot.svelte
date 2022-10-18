@@ -84,7 +84,7 @@
 				rgba(255, 255, 255, 0) 50%,
 				rgb(0, 0, 0) 100%
 			),
-			url('/openpilot-cover-three.jpg');
+			url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/openpilot-cover-three.jpg?alt=media&token=38546e0c-d169-498a-b253-eb60a5d8f5e5');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

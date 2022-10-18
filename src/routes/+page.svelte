@@ -16,11 +16,7 @@
 	import Footer2 from './Footer2.svelte';
 	import Twitter from './Twitter.svelte';
 
-	function handleClick() {
-		alert('clicked');
-	}
 
-	
 	import { initializeApp } from 'firebase/app';
 	import { getAnalytics } from 'firebase/analytics';
 	const firebaseConfig = {
