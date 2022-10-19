@@ -1,6 +1,6 @@
 <div class="all">
 	<div class="grid">
-		<img class="comma" src="comma-white.png" alt="github logo" width="24px" />
+		<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/comma-white.png?alt=media&token=a757b522-668a-4986-928b-d175f1192183" alt="github logo" width="24px" />
 		<br />
 		<div class="product">
 			<b><p>Product</p></b>
@@ -32,10 +32,10 @@
 			<input type="text" placeholder="your@email.com" />
 			<br />
 			<br />
-			<img src="icon-github-white.png" alt="github logo" width="24px" />
-			<img src="icon-instagram-white.png" alt="instagram logo" width="24px" />
-			<img src="icon-twitter-white.png" alt="twitter logo" width="24px" />
-			<img src="icon-youtube-white.png" alt="youtube logo" width="24px" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-github-white.png?alt=media&token=7c61a54d-ee62-48cd-91fc-ede2c7911365" alt="github logo" width="24px" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-instagram-white.png?alt=media&token=bbc2ae30-9ba5-48f0-aab1-69640fe31a6d" alt="instagram logo" width="24px" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-twitter-white.png?alt=media&token=0e0eeee2-7f8b-4a35-845c-3a2a77c07bf5" alt="twitter logo" width="24px" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-youtube-white.png?alt=media&token=12ff5dd0-314f-4576-9d7a-d321e426404e" alt="youtube logo" width="24px" />
 		</div>
 	</div>
 	<br />

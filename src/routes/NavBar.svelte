@@ -1,6 +1,6 @@
 <div class="bar">
-	<img class="menu" src="icon-menu-2.svg" alt="show menu" />
-	<img class="comma" src="comma1.png" alt="show menu" />
+	<img class="menu" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-menu-2.svg?alt=media&token=601f66c0-71ae-4249-b5bc-6bc3efca0511" alt="show menu" />
+	<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/comma1.png?alt=media&token=aa9d5723-707f-4378-9faa-428bd4305056" alt="show menu" />
 
 	<button><b>Shop</b></button>
 </div>

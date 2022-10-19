@@ -26,7 +26,7 @@
 			<br />
 			<img
 				class="monitoring"
-				src="driver-monitoring-at-night.jpg"
+				src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/driver-monitoring-at-night.jpg?alt=media&token=7c835374-54a3-48e8-9cd2-7feff6099f5c"
 				alt="example of internal camera"
 			/>
 		</div>

@@ -11,18 +11,18 @@
 <hr />
 <div class="three">
 	<p class="install">
-		<img src="/icon-fast-light-green.svg" width="75" alt="clock icon" /><br /> <br />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-fast-light-green.svg?alt=media&token=71435118-f71e-46e4-858b-f44aab5793f6" width="75" alt="clock icon" /><br /> <br />
 		<b>Easy to Install.</b> Watch our <u>step-by-step</u> videos. Install it yourself in as little as
 		5 minutes.
 	</p>
 	<p class="trial">
-		<img src="/icon-calendar-light-green.svg" width="55" alt="calender icon" /><br />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-calendar-light-green.svg?alt=media&token=d046c0eb-abe2-4ff2-9ff8-8343ba9b1250" width="55" alt="calender icon" /><br />
 		<br />
 		30 Day Money Back Trial. We think you'll love it, but if you're not satisfied, you can send it back
 		for a <u>full refund</u>.
 	</p>
 	<p class="affirm">
-		<img src="/icon-affirm-light-green.svg" width="50" alt="hourglass icon" /><br />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-affirm-light-green.svg?alt=media&token=18786307-c34d-4139-831c-742418135fb0" width="50" alt="hourglass icon" /><br />
 		<br />
 		Pay over time. With Affirm, you can pay monthly for the comma three. <u>Learn more</u>.
 	</p>

@@ -1,6 +1,6 @@
 <body>
 	<div class="full-height">
-		<img src="/icon-close-2.svg" class="close" width="14px" height="14px" alt="close" /><br />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-close-2.svg?alt=media&token=6e033f81-f9ac-4b14-80cc-8d28d497443d" class="close" width="14px" height="14px" alt="close" /><br />
 		<div class="links">
 			<p>Home</p>
 			<p>Compatibility</p>

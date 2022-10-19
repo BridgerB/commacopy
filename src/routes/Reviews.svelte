@@ -6,12 +6,12 @@
 	</div>
 
 	<div class="articles">
-		<img src="engadget.png" alt="engadget logo" class="engadget" />
-		<img src="consumer-reports.png" alt="consumer reports logo" class="consumerReports" />
-		<img src="car-and-driver.png" alt="car and driver logo" class="carAndDriver" />
-		<img src="road-show.png" alt="road show logo" class="roadShow" />
-		<img src="reason.png" alt="reason logo" class="reason" />
-		<img src="the-drive.png" alt="the drive logo" class="theDrive" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/engadget.png?alt=media&token=2425ab62-7b82-4c81-adf9-64d652080ce1" alt="engadget logo" class="engadget" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/consumer-reports.png?alt=media&token=676b62d3-e5fe-43d6-b711-18fa832dd7a5" alt="consumer reports logo" class="consumerReports" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/car-and-driver.png?alt=media&token=7e2dac4d-c07d-4b64-9e42-0938b6e9369e" alt="car and driver logo" class="carAndDriver" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/road-show.png?alt=media&token=c049e1a8-509c-4fad-86d2-a80f7fb3b337" alt="road show logo" class="roadShow" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/reason.png?alt=media&token=a026df98-372a-49ac-a5ab-a91d5efce50f" alt="reason logo" class="reason" />
+		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/the-drive.png?alt=media&token=3a5cd88d-43a4-4ee9-b75f-23b4d8e229c6" alt="the drive logo" class="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/the-drive.png?alt=media&token=3a5cd88d-43a4-4ee9-b75f-23b4d8e229c6" />
 	</div>
 </div>
 
