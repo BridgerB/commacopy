@@ -26,8 +26,10 @@
 			<br />
 			<img
 				class="monitoring"
-				src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/driver-monitoring-at-night.jpg?alt=media&token=7c835374-54a3-48e8-9cd2-7feff6099f5c"
+				src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fdriver-monitoring-at-night.webp?alt=media&token=2924566d-83ed-4fd4-8897-f26d157bac29"
 				alt="example of internal camera"
+				width="6115400" height="725"
+
 			/>
 		</div>
 	</div>
@@ -84,7 +86,7 @@
 				rgba(255, 255, 255, 0) 50%,
 				rgb(0, 0, 0) 100%
 			),
-			url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/openpilot-cover-three.jpg?alt=media&token=38546e0c-d169-498a-b253-eb60a5d8f5e5');
+			url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fopenpilot-cover-three.webp?alt=media&token=559d05ac-ad9b-4650-89e4-f4ef742f6424');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

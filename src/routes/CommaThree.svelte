@@ -1,6 +1,6 @@
 <div class="phone">
 	<video class="video" autoplay muted loop playsinline>
-		<source src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3screen.mp4?alt=media&token=62026916-6710-4bb6-98eb-3b6a88605d89" type="video/mp4" />
+		<source width="1920" height="1080" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3screen.mp4?alt=media&token=62026916-6710-4bb6-98eb-3b6a88605d89" type="video/mp4" />
 	</video>
 </div>
 
@@ -24,7 +24,7 @@
 		margin-bottom: 11.7%;
 	}
 	.phone {
-		background-image: url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/c3-homepage.png?alt=media&token=5a154ec9-ac83-4cf3-a86e-e2f2772e4e82');
+		background-image: url('https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fc3-homepage.webp?alt=media&token=8a855c28-0e1b-4e41-af75-f04925c650ad');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: contain;

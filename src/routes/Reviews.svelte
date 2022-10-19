@@ -1,17 +1,53 @@
 <div class="all">
 	<div class="title">
-		<h4>THOUSANDS OF DRIVERS AND MILLIONS OF MILES</h4>
+		<p><b>THOUSANDS OF DRIVERS AND MILLIONS OF MILES</b></p>
 		<br /><br /><br /><br /><br /><br /><br />
-		<h4>WE'VE BEEN FEATURED IN</h4>
+		<p><b>WE'VE BEEN FEATURED IN</b></p>
 	</div>
 
 	<div class="articles">
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/engadget.png?alt=media&token=2425ab62-7b82-4c81-adf9-64d652080ce1" alt="engadget logo" class="engadget" />
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/consumer-reports.png?alt=media&token=676b62d3-e5fe-43d6-b711-18fa832dd7a5" alt="consumer reports logo" class="consumerReports" />
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/car-and-driver.png?alt=media&token=7e2dac4d-c07d-4b64-9e42-0938b6e9369e" alt="car and driver logo" class="carAndDriver" />
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/road-show.png?alt=media&token=c049e1a8-509c-4fad-86d2-a80f7fb3b337" alt="road show logo" class="roadShow" />
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/reason.png?alt=media&token=a026df98-372a-49ac-a5ab-a91d5efce50f" alt="reason logo" class="reason" />
-		<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/the-drive.png?alt=media&token=3a5cd88d-43a4-4ee9-b75f-23b4d8e229c6" alt="the drive logo" class="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/the-drive.png?alt=media&token=3a5cd88d-43a4-4ee9-b75f-23b4d8e229c6" />
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fengadget.webp?alt=media&token=30b3b5e8-ebfc-4717-8161-ae3d085ca350"
+			alt="engadget logo"
+			class="engadget"
+			width="224"
+			height="48"
+		/>
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fconsumer-reports.webp?alt=media&token=3a8f90c8-55de-40ff-9f57-642fcfc9ace0"
+			alt="consumer reports logo"
+			class="consumerReports"
+			width="204"
+			height="48"
+		/>
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fcar-and-driver.webp?alt=media&token=dea6795b-753c-4c02-b478-a791057c2351"
+			alt="car and driver logo"
+			class="carAndDriver"
+			width="232"
+			height="40"
+		/>
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Froad-show.webp?alt=media&token=0901a5dc-7d97-483e-adf1-12f98a9731c3"
+			alt="road show logo"
+			class="roadShow"
+			width="306"
+			height="48"
+		/>
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Freason.webp?alt=media&token=328e9c5d-203e-48e8-9e60-34cc638bdd81"
+			alt="reason logo"
+			class="reason"
+			width="239"
+			height="48"
+		/>
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fthe-drive.webp?alt=media&token=a9e2b047-4b87-468a-8308-4c85d7a9ed1b"
+			alt="the drive logo"
+			class="theDrive"
+			width="360"
+			height="48"
+		/>
 	</div>
 </div>
 
@@ -23,7 +59,7 @@
 		text-align: center;
 		font-size: 35px;
 	}
-	h4 {
+	p {
 		display: inline-block;
 		background: #86ff4e;
 		padding: 0.5px;

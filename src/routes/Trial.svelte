@@ -3,7 +3,7 @@
 	<br />
 	<div class="grid">
 		<div class="header">
-			<h3>Try the comma three with our 30-day money back trial.</h3>
+			<p><b>Try the comma three with our 30-day money back trial.</b></p>
 		</div>
 
 		<div class="right">

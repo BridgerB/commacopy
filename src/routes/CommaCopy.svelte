@@ -8,21 +8,26 @@
 			></b
 		>
 	</p>
+	<p>If you are using Chrome then press F12 and use Lighthouse to analyze page load (100% in all catagories on desktop) </p>
 </div>
 
 <style>
 	p {
 
-		background-color: red;
+		background-color: black;
 		text-align: center;
 		padding: 5px;
-		color: black;
+		color: white;
 		margin: 0px;
 		font-size: 24px;
 	}
 
 	div {
+		padding: 20px;
 		border: solid 10px;
 		border-image: repeating-linear-gradient(-75deg, yellow, yellow 10px, black 10px, black 20px) 20;
+	}
+	a {
+		color: white;
 	}
 </style>

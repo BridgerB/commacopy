@@ -1,6 +1,6 @@
 <div class="all">
 	<div class="grid">
-		<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/comma-white.png?alt=media&token=a757b522-668a-4986-928b-d175f1192183" alt="github logo" width="24px" />
+		<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fcomma-white.webp?alt=media&token=620b2780-0c3c-4429-95ae-936d0f4478d2" alt="github logo" width="24px" height="43px" />
 		<br />
 		<div class="product">
 			<b><p>Product</p></b>
@@ -32,10 +32,10 @@
 			<input type="text" placeholder="your@email.com" />
 			<br />
 			<br />
-			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-github-white.png?alt=media&token=7c61a54d-ee62-48cd-91fc-ede2c7911365" alt="github logo" width="24px" />
-			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-instagram-white.png?alt=media&token=bbc2ae30-9ba5-48f0-aab1-69640fe31a6d" alt="instagram logo" width="24px" />
-			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-twitter-white.png?alt=media&token=0e0eeee2-7f8b-4a35-845c-3a2a77c07bf5" alt="twitter logo" width="24px" />
-			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-youtube-white.png?alt=media&token=12ff5dd0-314f-4576-9d7a-d321e426404e" alt="youtube logo" width="24px" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Ficon-github-white.webp?alt=media&token=aa98de78-7665-46c1-94d2-ae66412e60f5" alt="github logo" width="24px" height="24"/>
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Ficon-instagram-white.webp?alt=media&token=e9fe71ca-26f3-4ab1-a2f0-0575ea3bbcae" alt="instagram logo" width="24px" height="24" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Ficon-twitter-white.webp?alt=media&token=d6eb8366-009a-40d2-8e5e-1b4cfd3d77e1" alt="twitter logo" width="24px" height="24" />
+			<img src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Ficon-youtube-white.webp?alt=media&token=041b219c-b48d-4884-9910-54037ba43953" alt="youtube logo" width="24px" height="24"/>
 		</div>
 	</div>
 	<br />

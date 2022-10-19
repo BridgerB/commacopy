@@ -17,28 +17,31 @@
 	import Twitter from './Twitter.svelte';
 
 
-	import { initializeApp } from 'firebase/app';
-	import { getAnalytics } from 'firebase/analytics';
-	const firebaseConfig = {
-		apiKey: 'AIzaSyDk_-UKrGpvM3ovj2RV95UfVTEcxIo08_4',
-		authDomain: 'commacopy.firebaseapp.com',
-		projectId: 'commacopy',
-		storageBucket: 'commacopy.appspot.com',
-		messagingSenderId: '239626345124',
-		appId: '1:239626345124:web:4de6e1fa27c5d53a786431',
-		measurementId: 'G-XQS4TS6B20'
-	};
-	onMount(() => {
-		const app = initializeApp(firebaseConfig);
-		const analytics = getAnalytics(app);
-	});
+	// import { initializeApp } from 'firebase/app';
+	// import { getAnalytics } from 'firebase/analytics';
+	// const firebaseConfig = {
+	// 	apiKey: 'AIzaSyDk_-UKrGpvM3ovj2RV95UfVTEcxIo08_4',
+	// 	authDomain: 'commacopy.firebaseapp.com',
+	// 	projectId: 'commacopy',
+	// 	storageBucket: 'commacopy.appspot.com',
+	// 	messagingSenderId: '239626345124',
+	// 	appId: '1:239626345124:web:4de6e1fa27c5d53a786431',
+	// 	measurementId: 'G-XQS4TS6B20'
+	// };
+	// onMount(() => {
+	// 	const app = initializeApp(firebaseConfig);
+	// 	const analytics = getAnalytics(app);
+	// });
 
 
 </script>
 
 <svelte:head>
 	<title>Comma Copy</title>
-	<meta name="commacopy" content="comma.ai redone in SvelteKit" />
+	<meta charset="UTF-8">
+	<meta name="description" content="comma.ai redone in SvelteKit" />
+	<meta name="keywords" content="comma.ai">
+	<meta name="author" content="Bridger">
 </svelte:head>
 
 <body>
