@@ -1,3 +1,6 @@
+I HIT MAX FREE QUOTA WED OCT 19TH SITE IS DOWN UNTIL TOMORROW...
+
+
 I spent two days rewriting the homepage of comma.ai in SvelteKit.  
 This took ~400 lines of code.  
 You can see it in action here: [https://commacopy.web.app/](https://commacopy.web.app/) (mobile version needs work)  
