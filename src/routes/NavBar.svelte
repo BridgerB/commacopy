@@ -1,6 +1,6 @@
 <div class="bar">
 	<img class="menu" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/icon-menu-2.svg?alt=media&token=601f66c0-71ae-4249-b5bc-6bc3efca0511" alt="show menu" />
-	<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fcomma1.webp?alt=media&token=5b69fcb8-aed8-4878-8e07-83a2498b86e2" alt="show menu" width="164" height="164" />
+	<img class="comma" src="https://firebasestorage.googleapis.com/v0/b/commacopy.appspot.com/o/webpFiles%2Fcomma1.webp?alt=media&token=5b69fcb8-aed8-4878-8e07-83a2498b86e2" alt="show menu" width="30" height="30" />
 
 	<button><b>Shop</b></button>
 </div>
